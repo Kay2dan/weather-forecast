@@ -1,7 +1,7 @@
-### NOTICE ###
+NOTICE 
 	Please note, if you review the code on Github, you will notice the formating off a bit, which is due to Github not very friendly to tabs indentation.
 
-### FEATURES I WOULD LIKE TO ADD ###
+FEATURES I WOULD LIKE TO ADD
 	As requested, here are things I would do if I had more than the four hours allocated to this task (I did go a bit over the limit).
 
 	1 --- Correct formatting/ styling of webpage, using flexbox. I would like to have it as an SPA (single page app).
@@ -11,7 +11,7 @@
 	https://erikflowers.github.io/weather-icons/
 	5 --- Slight animations would bring life to the page, I would use animate.css for this basic task.
 
-### FINAL ###
+FINAL
 	I would like to continue work on this & incorporate all the features discussed above.
 
 	Thanks for this opportunity.
