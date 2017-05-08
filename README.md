@@ -4,6 +4,13 @@
     which is due to Github not very friendly to tabs indentation.
 
 ## HOW TO RUN
+	Please follow these commands:
+	1. fork & git pull master
+	2. npm install
+	3. npm run start
+	Please note:
+	    You may need webpack to be globally installed (npm i -g webpack)
+        'npm run start' starts the productive build.
 	
    
 
